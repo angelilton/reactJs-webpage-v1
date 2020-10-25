@@ -136,10 +136,10 @@
     cursor: pointer;
   }
 
-  /* .fa-times {
+  .fa-times {
     color: #fff;
     font-size: 2rem;
-  } */
+  }
 
   .nav-btn {
     display: flex;
